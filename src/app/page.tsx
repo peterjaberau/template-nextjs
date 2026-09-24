@@ -1,4 +1,4 @@
 export default function Page() {
 
-  return <>demo</>;
+  return <div>demo</div>;
 }

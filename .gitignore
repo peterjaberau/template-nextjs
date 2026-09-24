@@ -46,3 +46,4 @@ yarn-error.log*
 /.idea/prettier.xml
 /.idea/vcs.xml
 /pnpm-lock.yaml
+/.idea/template-nextjs.iml
